@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshwardhan patil</h1>
-<h3 align="center">Backend Developer | AWS Certified | Passionate about Web & Mobile App Development</h3>
+<h3 align="center">Full Stack Developer | AWS Certified | Passionate about Web & Mobile App Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshwardhanpatil-8010&label=Profile%20views&color=0e75b6&style=flat" alt="harshwardhanpatil-8010" /> </p>
 
