@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi there, I'm Harshwardhan Patil 👋</h1>
-<h3 align="center">Full Stack Developer | AWS Certified | Web & Mobile App Enthusiast | DevOps Innovator</h3>
+<h3 align="center">Full Stack Developer | AWS Certified | Web & Mobile App Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshwardhanpatil-8010&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -52,7 +52,6 @@
 
 ### 🧠 Current Focus
 
-- 🔧 Building an AI-powered DevOps automation platform  
 - 💡 Learning advanced AI integrations with OpenAI & Gemini APIs  
 - 📱 Developing mobile-first, cloud-native solutions  
 - 📈 Growing my skills in scalable infrastructure and automation
