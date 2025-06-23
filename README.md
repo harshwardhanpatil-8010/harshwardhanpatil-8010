@@ -6,9 +6,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/harshwardhanpatil-8010">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshwardhanpatil-8010&theme=onedark&margin-w=10&margin-h=10&column=7" alt="Trophies">
-  </a>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=harshwardhanpatil-8010&theme=radical&no-bg=true&no-frame=true&column=7" />
+
+
+</p>
+
 </p>
 
 ---
