@@ -66,7 +66,3 @@
 > *"Build systems that work for you—automate the boring, innovate the future."*
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshwardhanpatil-8010&theme=radical" alt="Contribution Graph"/>
-</p>
