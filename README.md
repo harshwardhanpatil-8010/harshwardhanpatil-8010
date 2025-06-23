@@ -1,5 +1,7 @@
+
 <h1 align="center">🚀 Hi there, I'm Harshwardhan Patil 👋</h1>
 <h3 align="center">Full Stack Developer | AWS Certified | Web & Mobile App Enthusiast</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshwardhanpatil-8010&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -56,6 +58,7 @@
 - 📱 Developing mobile-first, cloud-native solutions  
 - 📈 Growing my skills in scalable infrastructure and automation
 
+
 ---
 
 ### 🏆 Personal Philosophy
@@ -64,3 +67,6 @@
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshwardhanpatil-8010&theme=radical" alt="Contribution Graph"/>
+</p>
