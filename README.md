@@ -31,7 +31,7 @@
 ### 💼 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,flask,django,aws,firebase,git,github,linux,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,flask,django,aws,firebase,git,github,linux,postman,figma,swift" />
 </p>
 
 ---
