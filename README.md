@@ -50,14 +50,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshwardhanpatil-8010&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-
-### 🧠 Current Focus
-
-- 💡 Learning advanced AI integrations with OpenAI & Gemini APIs  
-- 📱 Developing mobile-first, cloud-native solutions  
-- 📈 Growing my skills in scalable infrastructure and automation
-
 
 ---
 
