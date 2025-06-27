@@ -3,9 +3,6 @@
 <h3 align="center">Full Stack Developer | AWS Certified | Web & Mobile App Enthusiast</h3>
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshwardhanpatil-8010&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
 
 <p align="center">
 <p align="center">
